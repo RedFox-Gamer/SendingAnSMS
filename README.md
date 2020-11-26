@@ -5,4 +5,4 @@ Sending SMS from another number using Twilio and Python.
  - Register on twilio.com 
  - Enter your Twilio SID and Token
 
-Tutorial available on my *Instagram* page: 
+Tutorial available on my *Instagram* page: https://www.instagram.com/p/CIEJgvDJVqo/
